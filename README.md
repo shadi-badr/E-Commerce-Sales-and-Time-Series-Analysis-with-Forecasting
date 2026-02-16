@@ -31,5 +31,5 @@ This Executive E-Commerce Dashboard transforms complex datasets into a strategic
 ![Time Series Analysis](Dashboard%20screenshots/Time%20Series%20Analysis%20with%20forecasting.png)
 
 
-*Interactive Year-over-Year Analysis*
+*Dynamic Filtered View: YoY Performance Tracking*
 ![Filtered Analysis](Dashboard%20screenshots/Filtered%20View%20(Year%20+%20Category%20Applied).png)
