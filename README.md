@@ -1,10 +1,10 @@
 # 📊 E-Commerce Sales Analysis & Forecasting - Excel
 
-## 📝 Overview
+## 📌 Overview
 This Executive E-Commerce Dashboard transforms complex datasets into a strategic decision-making tool using Excel. It provides a 360-degree view of business health by blending historical performance with Predictive Analytics. Designed with a modern UI, it proves that Excel can deliver high-end, interactive insights that rival dedicated BI platforms.
 
 
-## 🚀 Key Features
+## ✨ Key Features
 
 ### 1. Executive Insights & Advanced Viz
 * **Dynamic KPIs with YoY%:** Real-time tracking of Sales, Profit, and Orders with **Year-over-Year** growth metrics.
